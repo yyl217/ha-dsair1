@@ -1,9 +1,9 @@
 {
-  "domain": "ds_air",
-  "name": "DS-AIR",
-  "documentation": "https://github.com/mypal/ha-dsair",
+  "domain": "ds_air1",
+  "name": "DS-AIR1",
+  "documentation": "https://github.com/yyl217/ha-dsair1",
   "dependencies": [],
-  "codeowners": ["@mypal"],
+  "codeowners": ["@yyl217"],
   "requirements": [],
   "version": "1.3.5",
   "config_flow": true
