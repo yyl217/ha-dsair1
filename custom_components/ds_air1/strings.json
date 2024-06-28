@@ -2,7 +2,7 @@
   "config": {
     "step": {
       "user": {
-        "title": "DS-AIR",
+        "title": "DS-AIR1",
         "description": "Support DTA117B611/DTA117C611",
         "data": {
           "host": "Host",
@@ -25,12 +25,12 @@
     "abort": {
       "single_instance_allowed": "Only one instance is allowed."
     },
-    "flow_title": "DS-AIR"
+    "flow_title": "DS-AIR1"
   },
   "options": {
     "step": {
       "init": {
-        "title": "DS-AIR",
+        "title": "DS-AIR1",
         "menu_options": {
             "adjust_config": "Adjust config",
             "bind_sensors": "Link sensors"
